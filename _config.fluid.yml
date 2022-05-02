@@ -280,12 +280,12 @@ navbar:
   menu:
     - { key: "Home", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "About W6RFU", link: "/about/", icon: "iconfont icon-user-fill" }
-    - { key: "Resources", link: "/resources", icon: "iconfont icon-books" }    
+    - { key: "Resources", link: "/resources/", icon: "iconfont icon-books" }
     - { key: "Links", icon: "iconfont icon-link-fill",submenu: [
       { key: 'UCSB ECE', link: 'https://www.ece.ucsb.edu/' },
       { key: 'ARRL', link: 'https://www.arrl.org/' },
       { key: 'SBARC', link: 'https://www.sbarc.org/' }
-    ]
+    ]}
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
 search:
