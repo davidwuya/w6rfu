@@ -3,18 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: W6RFU
+subtitle: 'Amateur Radio Club at UCSB'
+description: 'The Amateur Radio Club at UCSB’s goal is to help its members discover and explore amateur radio
+communications. '
 keywords:
-author: John Doe
+author: David Zhu
 language: en
-timezone: ''
+timezone: 'America/Los_Angeles'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
