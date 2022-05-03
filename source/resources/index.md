@@ -7,6 +7,7 @@ date: 2022-05-02 15:06:24
 	- ARRL is the national association for Amateur Radio in the US.
 * [Federal Communications Commission (FCC)](https://www.fcc.gov/)
 * [University of California, Santa Barbara](https://www.ucsb.edu/)
+* [Santa Barbara Amateur Radio Club](https://www.sbarc.org/)
 
 ## License Exam Prep
 * [HAM study](https://hamstudy.org/)
