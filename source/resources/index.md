@@ -20,3 +20,4 @@ date: 2022-05-02 15:06:24
 * [Callsign Lookup on QRZ](https://www.qrz.com/)
 * [DX Maps](https://www.dxmaps.com/spots/mapg.php)
 * [VOACAP HF Propagation Prediction and Ionospheric Communications Analysis](https://www.voacap.com/)
+* [HAM Radio Glossary by ARRL](http://www.arrl.org/ham-radio-glossary)
